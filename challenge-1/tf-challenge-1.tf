@@ -1,6 +1,6 @@
 provider "aws" {
   version = "~> 2.54"
-  region  = "ap-south-1"
+  region = "ap-south-1"
 }
 
 provider "digitalocean" {}
